@@ -1,2 +1,2 @@
 # mvc-tech-blog
-A tech blog for all our very shiniest thoughts.
+Tech blog for all of our musings
